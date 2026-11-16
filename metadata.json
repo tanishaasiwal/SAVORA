@@ -1,0 +1,6 @@
+{
+  "name": "SAVORA",
+  "description": "SAVORA — Fine Dining Restaurant & Tasting Room. Where Every Bite Becomes a Memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
